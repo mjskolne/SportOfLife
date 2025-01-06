@@ -1,0 +1,63 @@
+2025_basketball_practice.txt
+
+Celebrate The End of Season
+---------------------------
+We will review progress to our top jobs!
+We will celebrate every player for giving their best effort, and recognize the:
+    1. Most Inspirational Player (THX, NIT).
+    2. Most Improved Player (KPIs).
+    3. Most Incredible Player (KPIs).
+
+Our Top Jobs
+------------
+Priority #1: Show sportsmanship and build relationships with 5 thanks (THX) for each constructive criticism or nitpick (NIT)!
+Priority #2: Improve athleticism through basketball with each player improving at least 10% on three (3) key performance indicators (KPIs).
+Priority #3: Win at least one game, we far exceed by winning most of our games, we believe that winning the championship is possible!
+
+Control Our Behavior for Success
+--------------------------------
+Show up with a positive attitude, give our best effort, enCOURAGE teamwork!
+Do the little things, properly, and outwork!
+
+Key Performance Indicators
+--------------------------
+END: endurance, x min. of continuous running.
+SPD: speed, how far do you go per x min. (speed = distance / time).
+FG%: successful field-goal shot percent (including three-pointers, not free-throws).
+FT%: successful free-throw shot percent.
+3P%: successful three-point shot percent.
+REB: number of rebounds.
+AST: number of assists (pass the ball, leading to a direct score).
+STL: number of times the ball is stolen from our opponents.
+BLK: number of times the opponents shot is block.
+
+Standing Agenda Practice Schedule (KPI FOCUS)
+------------------------------------------------
+01 Greet Your Ball, Greet Your Buddy, Greet Your Coach (THX, NIT).
+02 Dynamic Stretching, Calisthenics (END, SPD).
+03 Keep The Ball Up, And Jump! Jump (END, SPD).
+04 Continuous Running (END, SPD).
+05 Shooting Progressions: Ground, Mirror, Clear Shots (FG%, 3P% | REB).
+06 The Game of Pass Break to the Backboard (AST, FG% | REB).
+07 FT, Box, and Rebound, with at least 2 x 2 (FT% | REB).
+08 Dribble, Spot, Steal, Straight Up (STL, BLK, REB).
+09 Game Rehearsal, Scrimmage (ALL).
+10 Line Sprints to FT, Half, FT, Full (END, SPD).
+11 Static Stretching, Close of Business, Comment Box (THX, NIT).
+
+An Example of Player Choice for the Good of the Team
+----------------------------------------------------
+The games begins in the center circle when the ref tosses the ball in the air.
+Our player gains control of the ball about 40 feet away from our basket, now what:
+  1. Shoot the ball to score 3 points. They are 20 feet beyond the 3 point line and their 3P% from the line is 20%.
+  2. Pass the ball to a teammate and move.
+  3. Dribble the ball to move in order to make a better shot-attempt or pass.
+
+To support our player with control of the ball:
+  1. On shot, claim a spot and rebound the ball (if missed).
+  2. Move to an open spot, closer to the basket, call for the pass.
+  3. Set a screen (pick and roll, call for the pass).
+
+I wonder what is the next choice to make and perform to help our team.
+
+[END]
