@@ -1,4 +1,4 @@
-# Sport of Life :play_or_pause_button: :record_button: :repeat:
+# Sport of Life
 ### The Create Wonder Game  
 A coaching philosophy, creative work in progress, a personal development guide, written as a we story and a gamification of life, to inspire, **for and by Mitch Skolnekovich**, March 2025.
 
@@ -26,11 +26,9 @@ A fabulous example, the “IF” character traits, which are values that cleverl
 | Ingenuity + Friendship | ...using ingenuity for creative problem solving + friendship for support and joy. |
 | Industriousness + Forte | ...engaging industriousness for best effort + forte for a better, faster, cheaper way. |
 
-##  
-> :grey_heart:  
+
 > ***A CHEERLEADER, COACH, AND PLAYER OF LIFE***  
-> :grey_heart:
-##  
+
 
 ## Time & Talent & Team
 As our game begins, we join a team (family, friends, community), which we significantly depend on as we develop our skills. As time goes on, we will join other teams by assignment or choice. Our turn (playing time) starts as **we rise each day to make choices for how to use the time we have**, developing our talents, contributing to and through trustworthy teams.
@@ -65,11 +63,9 @@ If we play, **we play passionately** using limited playing time to develop talen
 + Believe in your unlimited potential, giving your best effort toward goals, honestly measuring progress, persisting through failure.
 + Shape your story through the things you do, create a more wonderful world for you and your crew!
 
-##  
-> :grey_heart:  
+
 > ***BELIEVE, FOCUS, AND DO: SPIRITUALLY, MENTALLY, AND PHYSICALLY***  
-> :grey_heart:
-##  
+
 
 ## Support & Sincerity & Shoutouts
 I hope you enjoyed this creative work in progress and invite you to:
@@ -82,10 +78,8 @@ Inspiring people and works are listed below, if I missed one let me know; and [A
 
 I consider myself wise and well-read and thank (and recommend) Andy Grove, Pat Gelsinger, Jo Boaler, Stephen R. Covey, Brené Brown, Richard Rohr, Carol Dweck, John Wooden, Malcolm Gladwell, Jim Thompson (Positive Coaching Alliance), Michael Jordan, The Last Dance docuseries, 13 Lady Wildcats, Centers for Disease Control and Prevention, National Federation of State High School Associations, and much more for inspiration and contribution to the “Create Wonder” Sport of Life game!
 
-##  
-> :grey_heart:  
+
 > ***A MORE WONDERFUL WORLD, ONE PLAY AT A TIME***  
-> :grey_heart:
-##  
+
 
 ### Sport of Life
