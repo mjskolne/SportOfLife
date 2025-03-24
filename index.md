@@ -20,13 +20,9 @@ In short, **Sport of Life is gamification of spiritual, mental, and physical pur
 ### Character Traits: The "IF" Framework
 We can create and center on our character traits if **we shape our thoughts, emotions, and actions**.
 A fabulous example, the “IF” character traits, which are values that cleverly begin with the letter “I” and “F”, complementing the sentence “I wonder IF…”
-| "IF" Trait | I wonder IF... |
-| ---- | ---- |
-| Imagination + Faith | ...exploring imagination for what could be + faith for believing it will become. |
-| Intent + Focus | ...shaping intent for clear purpose + focus to progress. |
-| Initiative + Fervor | ...showing initiative to drive action + fervor to overcome obstacles as they arise. |
-| Ingenuity + Friendship | ...using ingenuity for creative problem solving + friendship for support and joy. |
-| Industriousness + Forte | ...engaging industriousness for best effort + forte for a better, faster, cheaper way. |
+
+
+![image of IF traits](assets/character_if_traits.jpg)
 
 
 > ***A CHEERLEADER, COACH, AND PLAYER OF LIFE***  
