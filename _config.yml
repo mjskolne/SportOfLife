@@ -1,3 +1,17 @@
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-  - jekyll-remote-theme
+title: Sport of Life
+description: A coaching philosophy, creative work in progress, a personal development guide, written as a we story and a gamification of life, to inspire, for and by Mitch Skolnekovich.
+baseurl: "" # Leave blank for the root directory
+url: "https://mjskolne.github.io/SportOfLife" # Replace with your GitHub Pages URL
+
+theme: minima # You can change this to a supported theme
+markdown: kramdown
+permalink: pretty # Makes URLs more readable
+
+# Exclude these files from being processed by Jekyll
+exclude:
+  - README.md
+
+# Optional: Social links
+social_links:
+  linkedin: https://www.linkedin.com/in/mitchskolnekovich/
+  github: https://github.com/mjskolne
