@@ -25,7 +25,7 @@ A fabulous example, the “IF” character traits, which are values that cleverl
 ![image of IF traits](assets/character_if_traits.jpg)
 
 
-> ***A CHEERLEADER, COACH, AND PLAYER OF LIFE***  
+> ***THE CHEERLEADER, COACH, AND PLAYER OF MY LIFE***  
 
 
 ## Time & Talent & Team
