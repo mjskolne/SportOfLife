@@ -1,6 +1,6 @@
 # Sport of Life :play_or_pause_button: :record_button: :repeat:
 ### The Create Wonder Game  
-A coaching philosophy, creative work in progress, a personal development guide, written as a we story and a gamification of life to inspire, **for and by Mitch Skolnekovich**, March 2025.
+A coaching philosophy, creative work in progress, a personal development guide, written as a we story and a gamification of life, to inspire, **for and by Mitch Skolnekovich**, March 2025.
 
 ![image of coach mith with simple, inspirational icons](assets/sport_of_life_icons_skolnekovich_photo.jpg)
 
