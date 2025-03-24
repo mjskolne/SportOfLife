@@ -1,23 +1,19 @@
 # Jekyll Configuration File
-# title: Sport of Life
-# description: A coaching philosophy, creative work in progress, a personal development guide, written as a we story and a gamification of life, to inspire, for and by Mitch Skolnekovich.
-# baseurl: "" # Leave blank for the root directory
-# url: "https://mjskolne.github.io/SportOfLife" # Replace with your GitHub Pages URL
+# https://mjskolne.github.io/SportOfLife
+---
+layout: default
+title: Sport of Life
+description: A coaching philosophy, creative work in progress, a personal development guide, written as a we story and a gamification of life, to inspire, for and by Mitch Skolnekovich.
+---
+
 
 # https://pages.github.com/themes/
 # GFM is GitHub Flavored Markdown
-# theme: modernist
+theme: modernist
+markdown: kramdown
+    input: GFM
+permalink: pretty
 
-# markdown: kramdown
-#   input: GFM
-  
-# permalink: pretty # Makes URLs more readable
-
-# Exclude these files from being processed by Jekyll
-# exclude:
-#   - README.md
-
-# Optional: Social links
-# social_links:
-#   linkedin: https://www.linkedin.com/in/mitchskolnekovich/
-#   github: https://github.com/mjskolne
+# Jekyll Exclude
+exclude:
+    - README.md
