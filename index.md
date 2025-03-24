@@ -2,6 +2,8 @@
 ### The Create Wonder Game  
 A coaching philosophy, creative work in progress, a personal development guide, written as a we story and a gamification of life, **for and by Mitch Skolnekovich**, March 2025, to inspire others.
 
+![image of coach mith with simple, inspirational icons](assets/sport_of_life_icons_skolnekovich_photo.jpg)
+
 ## Conduct & Creation & Character
 ### Spirit of Sportsmanship
 A sport is a fun activity with a clear objective, a way to measure (or score) progress, a time limit, and a clear rank (such as first place, highest score, or most valuable player), with **positive character and conduct displayed by all involved** (sportsmanship).
