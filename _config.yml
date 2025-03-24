@@ -9,10 +9,10 @@ description: A coaching philosophy, creative work in progress, a personal develo
 
 # https://pages.github.com/themes/
 # GFM is GitHub Flavored Markdown
-theme: modernist
+# theme: modernist
 markdown: kramdown
     input: GFM
-permalink: pretty
+# permalink: pretty
 
 # Jekyll Exclude
 exclude:
